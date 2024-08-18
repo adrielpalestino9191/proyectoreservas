@@ -21,6 +21,8 @@ function App() {
 
   return (
     <div className="App">
+
+      <label>Crear un usuario e iniciar sesión</label>
       <input
         type="email"
         placeholder="Ingresa tu correo"
